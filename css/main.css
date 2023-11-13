@@ -66,12 +66,9 @@ header img {
 
 /* Show icon and background overlay on hover or focus */
 .icon-button:hover .icon,
-.icon-button:focus .icon {
-    opacity: 1;
-}
-
+.icon-button:focus .icon,
 .icon-button:hover .background-overlay,
-.icon-button:focus .background-overlay {
+.icon-button:focus .background-overlay{
     opacity: 1;
 }
 
